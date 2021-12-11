@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google News Web
+Comment=Google News Web App
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/google-news.png
+URL=https://news.google.com
+Categories=Network;Web;
+StartupNotify=true

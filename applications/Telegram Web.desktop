@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Telegram Web
+Comment=Web telegram client
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/telegram.png
+URL=https://web.telegram.org/?legacy=1
+Categories=Network;Web;
+StartupNotify=true

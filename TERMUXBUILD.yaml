@@ -1,0 +1,19 @@
+control:
+    Package: termux-desktop-google-web-apps
+    Version: 5.0.3
+    Architecture: all
+    Installed-Size: 160
+    Maintainer: Yisus7u7 <jesuspixel5@gmail.com>
+    Depends: otter-browser, gst-libav
+    Homepage: https://github.com/Yisus7u7/termux-desktop-google-web-apps
+    Description: |-
+        A set for google web apps aplications for termux, and extra (telegram web, facebook)
+
+installation_prefix: /data/data/com.termux/files/usr
+
+data_files:
+    share/applications:
+         source: applications
+
+    share/termux-desktop-xfce/web-apps-icons:
+         source: web-apps-icons

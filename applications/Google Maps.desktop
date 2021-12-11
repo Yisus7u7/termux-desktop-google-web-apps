@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Maps Web
+Comment=Google Maps web app
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/google-maps.png
+URL=https://maps.google.com
+Categories=Network;Web;
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Play Web
+Comment=Google Store Web app
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/google-play.png
+URL=https://play.google.com
+Categories=Network;Web;
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Google Web
+Comment=Google Web App
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/google.png
+URL=https://google.com
+Categories=Network;Web;
+StartupNotify=true

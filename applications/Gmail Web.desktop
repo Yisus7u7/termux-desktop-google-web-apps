@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Gmail Web
+Comment=Google Gmail Web App
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/gmail.png
+URL=https://mail.google.com
+Categories=Network;Web;
+StartupNotify=true

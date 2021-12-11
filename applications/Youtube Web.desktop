@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Youtube Web
+Comment=Youtube web app
+Icon=/data/data/com.termux/files/usr/share/termux-desktop-xfce/web-apps-icons/youtube.png
+URL=https://youtube.com
+Categories=Network;Web;
+StartupNotify=true
